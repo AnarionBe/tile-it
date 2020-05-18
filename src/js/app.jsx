@@ -1,7 +1,8 @@
 import React from 'react'
+import {Home} from './containers/index'
 
 export default () => {
   return (
-    <h1>Hello World</h1>
+    <Home />
   );
 }
